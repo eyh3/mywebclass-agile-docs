@@ -1,15 +1,21 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Create Github Quiz
 
-User Story: [Reference the user story that this task supports]
+User Story: As a Github user, I want to participate in quizzes and challenges to test my knowledge and improve my skills, so that I can become a more proficient Github user.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Create a Github quiz with 10 multiple-choice questions to test the user's knowledge on Github basics, such as repositories, branches, and pull requests. Acceptance criteria include:
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+    Questions cover relevant Github topics
+    Questions have clear and concise answers
+    Questions are randomized
+    User receives a score at the end of the quiz
+    Quiz can be taken multiple times
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Effort Estimate: 8 hours
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Assigned To: John
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Priority: High
 
-Notes: [Include]
+Status: In progress
+
+Notes: This task is dependent on the completion of the interactive Github learning activities epic. Once the interactive learning activities are complete, the quiz questions can be generated using the same API and resources.
