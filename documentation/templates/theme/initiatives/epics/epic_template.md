@@ -1,20 +1,34 @@
-"Title of the Epic"
+Title of the Epic: Interactive Github Learning Activities
 
-Description: [A brief description of the epic]
+Description: This epic aims to create interactive Github learning activities to improve user engagement and knowledge retention.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals:
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+    To increase user engagement with Github tutorials
+    To improve knowledge retention and application of Github skills
+    To provide a more comprehensive Github learning experience
 
-Dependencies: [List any dependencies that may impact the epic]
+User Stories:
 
-Risks: [List the potential risks and mitigation strategies]
+    As a new computer science student, I want to complete interactive Github exercises to reinforce my learning, so that I can retain and apply my Github skills.
+    As a Github user, I want to participate in quizzes and challenges to test my knowledge and improve my skills, so that I can become a more proficient Github user.
+    As a Github learner, I want to access a variety of interactive learning activities to enhance my understanding of Github, so that I can become a more well-rounded Github user.
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Dependencies:
 
-Business Value: [Specify the business value that will be delivered by the epic]
+    Availability of development resources to create the interactive learning activities
+    Availability of Github API and related resources
 
-Priority: [Assign a priority to the epic]
+Risks:
+
+    Users may not find the interactive learning activities engaging, resulting in low engagement and completion rates
+    Technical issues may occur during development, resulting in delays or increased costs
+
+Estimated Effort: 3 months
+
+Business Value: By providing interactive Github learning activities, the Github learning platform will become a more engaging and effective resource for users, resulting in improved knowledge retention and application of Github skills.
+
+Priority: High
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
