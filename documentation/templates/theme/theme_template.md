@@ -1,4 +1,4 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
+As a new computer science student, I want to easily find Github tutorials that are relevant and easy to understand so that I can quickly learn and apply Github to my projects. By curating and organizing high-quality tutorial content, we can create a comprehensive Github learning platform. This will enable us to educate and empower new learners with the necessary skills to use Github effectively. By following best practices in instructional design, we can quickly and effectively develop engaging Github tutorials, setting us up for long-term success in providing a valuable resource for students.
 
 You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
 
